@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chetan-code-lrca
-- 👀 I’m interested in new codes to type
+- 👀 I’m interested in typing codes 
 - 🌱 I’m currently learning new programming languages to root my career
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
