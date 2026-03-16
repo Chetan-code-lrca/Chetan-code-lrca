@@ -50,7 +50,7 @@ Currently focused on NLP pipelines, text classification, and GenAI applications.
 ### 🌐 Portfolio Website
 > Projects, skills, and contact — built and deployed independently.
 
-[→ Live Site](https://github.com/Chetan-code-lrca)  <!-- Replace with actual URL e.g. https://chetan-code-lrca.vercel.app or GitHub Pages when live -->
+[→ Live Site](  https://chetan-code-lrca.github.io/Portfolio/)
 
 ---
 
