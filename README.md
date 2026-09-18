@@ -75,6 +75,14 @@ A lightweight developer tool combining APIs and regional information into a comm
 
 ---
 
+## Open Source
+
+Contributing to open-source projects through documentation fixes, maintenance work, and small improvements alongside my own projects.
+
+→ [Current open-source work](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1212)
+
+---
+
 ## ⚙️ What I Work With
 
 ### AI / ML
