@@ -27,39 +27,47 @@ experimenting → ideas that may become products
 
 ## Featured Work
 
-### FitMatch AI
+### 👕 FitMatch AI
 
-Wardrobe-based outfit recommendations with color analysis, scoring, a stylist chat, and an optional OpenAI explanation layer.
+A Next.js wardrobe and outfit recommendation app with image uploads, outfit scoring, Outfit of the Day, and a stylist chat.
 
-`Next.js` `TypeScript` `React`
+The current recommendation engine is rule-based, with optional OpenAI-generated explanations.
+
+`Next.js` `TypeScript` `React` `OpenAI`
 
 → [View FitMatch AI](https://github.com/Chetan-code-lrca/Fit-Match_AI)
 
 ---
 
-### PhishGuard AI
+### 🛡️ PhishGuard AI
 
-A phishing-detection project with a working browser demo for heuristic URL and email analysis, alongside Python ML/NLP and Azure development work.
+A phishing-detection project for URL and email analysis, with a browser demo plus Python, ML/NLP, API, and Azure development work.
 
-`Python` `JavaScript` `ML` `Cybersecurity`
+The browser demo uses local heuristic scoring; the wider repository contains the broader project implementation and experiments.
+
+`Python` `ML` `NLP` `Azure` `Cybersecurity`
 
 → [View PhishGuard AI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
 
 ---
 
-### AI Study Coach
+### 📚 AI Study Coach
 
-A Streamlit application for AI study planning, document learning, quiz generation, progress tracking, and student profiles using Gemini.
+A Streamlit study assistant for study planning, document learning, quiz generation, and progress tracking using Gemini.
 
-`Python` `Streamlit` `Gemini` `GenAI`
+The current app keeps user data in Streamlit session state and does not require a database.
+
+`Python` `Streamlit` `Gemini` `Generative AI`
 
 → [View AI Study Coach](https://github.com/Chetan-code-lrca/ai-study-coach-agents)
 
 ---
 
-### GreenMile
+### 🌱 GreenMile
 
-An Android sustainability tracker with activity logging, points, streaks, leaderboards, step counting, Firebase Authentication, and Firestore.
+An Android sustainability app for recording everyday activities, tracking points and streaks, viewing leaderboards, and monitoring step counts.
+
+Built with Kotlin, Jetpack Compose, Firebase Authentication, and Cloud Firestore.
 
 `Kotlin` `Jetpack Compose` `Firebase` `Android`
 
@@ -67,31 +75,27 @@ An Android sustainability tracker with activity logging, points, streaks, leader
 
 ---
 
-### SkillSling AI
+### 🧠 SkillSling AI
 
-A local-first study assistant using Ollama models for multilingual tutoring, subject-aware prompting, mathematics support, and PDF retrieval with FAISS.
+A local study assistant that connects Streamlit with Ollama models and can use uploaded PDFs as temporary retrieval-based study material.
 
-`Python` `Ollama` `RAG` `FAISS`
+Supports multiple languages and several local open-weight models.
+
+`Python` `Streamlit` `Ollama` `RAG` `FAISS`
 
 → [View SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)
 
 ---
 
-### Low-Level Image Feature Extraction
+### 🖼️ Low-Level Image Feature Extraction
 
-A Digital Image Processing project covering colour, texture, and shape features, with separate implementations, examples, and tests.
+A Digital Image Processing project that extracts colour, texture, and shape features and combines them into a numerical feature vector.
+
+Includes separate implementations and tests for each feature family.
 
 `Python` `OpenCV` `NumPy` `Computer Vision`
 
 → [View the project](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
-
----
-
-## Open Source
-
-Contributing to open-source projects through documentation fixes, maintenance work, and small improvements alongside my own projects.
-
-→ [Current open-source work](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1212)
 
 ---
 
