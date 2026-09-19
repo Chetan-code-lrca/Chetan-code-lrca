@@ -27,51 +27,63 @@ experimenting → ideas that may become products
 
 ## Featured Work
 
-### 🔐 NetraX
+### FitMatch AI
 
-**AI-powered threat detection for strictly unidirectional network traffic.**
+Wardrobe-based outfit recommendations with color analysis, scoring, a stylist chat, and an optional OpenAI explanation layer.
 
-A cybersecurity system exploring evidence-aware threat detection where the system cannot rely on reverse-side network communication.
+`Next.js` `TypeScript` `React`
 
-`Python` `Cybersecurity` `ML` `Network Traffic Analysis`
-
-→ [View NetraX](https://github.com/Chetan-code-lrca/NetraX)
+→ [View FitMatch AI](https://github.com/Chetan-code-lrca/Fit-Match_AI)
 
 ---
 
-### 🧠 AI Study Coach
+### PhishGuard AI
 
-**A multi-agent AI system for personalized STEM learning.**
+A phishing-detection project with a working browser demo for heuristic URL and email analysis, alongside Python ML/NLP and Azure development work.
 
-Built around specialized agents for study planning, quiz generation, progress tracking and resource recommendation, with Gemini + Google ADK + Firebase.
+`Python` `JavaScript` `ML` `Cybersecurity`
 
-`Python` `Gemini` `Google ADK` `Agents` `Firebase` `Streamlit`
-
-→ [View Project](https://github.com/Chetan-code-lrca/ai-study-coach-agents)
+→ [View PhishGuard AI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
 
 ---
 
-### 🛡️ PhishGuard AI
+### AI Study Coach
 
-**AI-assisted phishing detection for emails and URLs.**
+A Streamlit application for AI study planning, document learning, quiz generation, progress tracking, and student profiles using Gemini.
 
-Combines ML-based analysis, URL inspection, browser-extension workflows and cloud services into a cybersecurity platform.
+`Python` `Streamlit` `Gemini` `GenAI`
 
-`Python` `ML` `Node.js` `Azure` `JavaScript`
-
-→ [View Project](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
+→ [View AI Study Coach](https://github.com/Chetan-code-lrca/ai-study-coach-agents)
 
 ---
 
-### 🗺️ Rajasthan Helper
+### GreenMile
 
-**A CLI travel assistant for Rajasthan.**
+An Android sustainability tracker with activity logging, points, streaks, leaderboards, step counting, Firebase Authentication, and Firestore.
 
-A lightweight developer tool combining APIs and regional information into a command-line travel experience.
+`Kotlin` `Jetpack Compose` `Firebase` `Android`
 
-`Python` `REST APIs` `CLI`
+→ [View GreenMile](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026)
 
-→ [View Project](https://github.com/Chetan-code-lrca/rajasthan-helper)
+---
+
+### SkillSling AI
+
+A local-first study assistant using Ollama models for multilingual tutoring, subject-aware prompting, mathematics support, and PDF retrieval with FAISS.
+
+`Python` `Ollama` `RAG` `FAISS`
+
+→ [View SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)
+
+---
+
+### Low-Level Image Feature Extraction
+
+A Digital Image Processing project covering colour, texture, and shape features, with separate implementations, examples, and tests.
+
+`Python` `OpenCV` `NumPy` `Computer Vision`
+
+→ [View the project](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
 
 ---
 
