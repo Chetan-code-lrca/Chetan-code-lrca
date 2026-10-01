@@ -99,6 +99,19 @@ Includes separate implementations and tests for each feature family.
 
 ---
 
+## ✅ Project Build Signals
+
+[![FitMatch CI](https://github.com/Chetan-code-lrca/Fit-Match_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Chetan-code-lrca/Fit-Match_AI/actions/workflows/ci.yml)
+[![PhishGuard CI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026/actions/workflows/ci-cd.yml)
+[![AI Study Coach](https://github.com/Chetan-code-lrca/ai-study-coach-agents/actions/workflows/streamlit-smoke.yml/badge.svg)](https://github.com/Chetan-code-lrca/ai-study-coach-agents/actions/workflows/streamlit-smoke.yml)
+[![GreenMile Android Build](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026/actions/workflows/android-build.yml/badge.svg)](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026/actions/workflows/android-build.yml)
+[![SkillSling Smoke](https://github.com/Chetan-code-lrca/skillsling-demo/actions/workflows/python-smoke.yml/badge.svg)](https://github.com/Chetan-code-lrca/skillsling-demo/actions/workflows/python-smoke.yml)
+[![Image Feature Tests](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction/actions/workflows/tests.yml/badge.svg)](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction/actions/workflows/tests.yml)
+
+These badges link directly to the repositories' GitHub Actions workflows.
+
+---
+
 ## ⚙️ What I Work With
 
 ### AI / ML
@@ -112,7 +125,6 @@ Includes separate implementations and tests for each feature family.
 ### GenAI / Agents
 
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat\&logo=google\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
 `LLM Applications` `RAG` `AI Agents` `Prompt Engineering` `Multi-Agent Systems`
 
