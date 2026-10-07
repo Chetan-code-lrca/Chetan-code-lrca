@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Chetan-code-lrca/Chetan-code-lrca/main/assets/lab-terminal.svg" alt="Chetan's Engineering Lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Chetan%27s%20Engineering%20Lab&fontSize=38&fontAlignY=34&desc=AI%2FML%20%C2%B7%20GenAI%20%C2%B7%20Agents%20%C2%B7%20Computer%20Vision%20%C2%B7%20Software%20Engineering&descAlignY=56&descSize=16&animation=twinkling&fontColor=FFFFFF" alt="Chetan's Engineering Lab animated header"/>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI%2FML+applications+that+actually+run;Experimenting+with+GenAI%2C+retrieval+%26+agents;Exploring+computer+vision%2C+security+%26+software;Build+%E2%86%92+test+%E2%86%92+understand+%E2%86%92+improve" alt="Animated typing tagline"/>
   </a>
 </p>
 
@@ -9,111 +13,122 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://chetan-code-lrca.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20the%20Lab-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Browse the lab"/>
+    <img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
 ---
 
-## 👋 whoami
+## 👋 About Me
 
-I'm Chetan — a builder who likes understanding a system by **making it run**.
+I'm a Computer Science & Engineering (AI/ML) student who likes learning by building.
 
-My work tends to sit where **AI/ML meets software engineering**: models and experiments, retrieval and agents, APIs and interfaces, computer-vision pipelines, and the testing needed to keep the pieces honest.
+I work across AI/ML applications, GenAI and retrieval, agent experiments, computer vision, cybersecurity, APIs, web interfaces, and Android software. The common thread is simple: take a question, make something run, inspect what happens, and improve it.
 
-I'm less interested in collecting technology names and more interested in seeing **what a technology can actually do when turned into a working system**.
+I'm less interested in collecting technology names and more interested in seeing what a technology can actually do when turned into a working system.
+
+**Currently focused on:** intelligent applications, agentic workflows, computer vision, defensive tooling, and stronger software-engineering practices.
+
+**Reach me:** LinkedIn or Portfolio.
 
 ---
 
-## 🧭 Navigate
+## 🧭 ~/currently
+
+    BUILDING       → AI / ML applications + software projects
+    EXPLORING      → GenAI • retrieval • agents • computer vision
+    ENGINEERING    → APIs • web apps • Android • testing • CI
+    LEARNING       → systems thinking • reproducibility • better architecture
 
 <p align="center">
-  <a href="#-currently">~/currently</a> ·
-  <a href="#-flagship-work">Flagship Work</a> ·
-  <a href="#-build-signals">Build Signals</a> ·
-  <a href="#-stack">Stack</a> ·
-  <a href="#-engineering-philosophy">Philosophy</a>
-</p>
-
-## ~/currently
-
-~~~text
-building      → AI / ML applications and engineering projects
-exploring     → GenAI • agents • retrieval • computer vision
-working with  → Python • TypeScript • Kotlin • FastAPI • Streamlit
-learning by   → prototyping • testing • documenting • shipping
-~~~
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chetan-code-lrca/Chetan-code-lrca/main/assets/build-loop.svg" alt="Chetan's animated engineering build loop"/>
+  <img src="https://raw.githubusercontent.com/Chetan-code-lrca/Chetan-code-lrca/main/assets/build-loop.svg" alt="Animated build loop: ask, read, make, break, learn, ship"/>
 </p>
 
 ---
 
-## 🚀 Flagship Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [NetraX](https://github.com/Chetan-code-lrca/NetraX)
+### 🛡️ NetraX
 
-Passive cyber-threat analysis for strictly one-way traffic.
+**Problem →** signal loss in strictly one-way network observation.  
+**Build →** passive threat analysis with flow features, detectors, and evidence-aware separability.
 
-**Inside:** flow features · threat detectors · one-way separability · FastAPI · React/Vite
+Python · FastAPI · scikit-learn · React · Vite
 
-Python · FastAPI · scikit-learn · React
+→ [Open NetraX](https://github.com/Chetan-code-lrca/NetraX)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎣 [PhishGuard AI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
+### 🎣 PhishGuard AI
 
-A phishing-analysis project for URL and email text.
-
-**Inside:** browser demo · Python ML/NLP · API · Azure · testing
+**Problem →** identify phishing indicators in URLs and email text.  
+**Build →** browser heuristics plus Python ML/NLP, API, Azure, and testing work.
 
 Python · ML · NLP · Azure
 
+→ [Open PhishGuard AI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 👕 [FitMatch AI](https://github.com/Chetan-code-lrca/Fit-Match_AI)
+### 👕 FitMatch AI
 
-A wardrobe and outfit-suggestion application with image uploads, scoring, Outfit of the Day, and rule-based stylist chat.
-
-**Inside:** Next.js · TypeScript · image processing · optional OpenAI explanations
+**Problem →** turn a wardrobe into usable outfit suggestions.  
+**Build →** image-aware wardrobe flow, scoring, Outfit of the Day, and rule-based stylist chat.
 
 Next.js · TypeScript · React · OpenAI
 
+→ [Open FitMatch AI](https://github.com/Chetan-code-lrca/Fit-Match_AI)
+
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [AI Study Coach](https://github.com/Chetan-code-lrca/ai-study-coach-agents)
+### 🧠 AI Study Coach
 
-A Streamlit assistant for study plans, document learning, quiz generation, and session-based progress.
-
-**Inside:** document processing · Gemini · Streamlit
+**Problem →** make study material easier to plan, learn, and test.  
+**Build →** Streamlit workflows for study plans, document learning, quizzes, and session progress.
 
 Python · Streamlit · Gemini
+
+→ [Open AI Study Coach](https://github.com/Chetan-code-lrca/ai-study-coach-agents)
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 👁️ [Low-Level Image Feature Extraction](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
+### 🧩 SkillSling AI
 
-A Digital Image Processing project that turns images into colour, texture, and shape features, then fuses them into a numerical feature vector.
+**Problem →** study with local models instead of a hosted tutoring backend.  
+**Build →** Ollama-based multilingual tutoring with optional PDF retrieval using FAISS.
+
+Python · Streamlit · Ollama · FAISS
+
+→ [Open SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Low-Level Image Features
+
+**Problem →** turn raw pixels into reusable numerical information.  
+**Build →** colour, texture, and shape extraction with feature fusion and tests.
 
 Python · OpenCV · NumPy · Pytest
+
+→ [Open the CV project](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
 
 </td>
 </tr>
@@ -122,81 +137,61 @@ Python · OpenCV · NumPy · Pytest
 <details>
 <summary>More from the lab</summary>
 
-**[SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)** — local study assistant using Ollama, multilingual prompting, basic math handling, and optional PDF retrieval with FAISS.
-
 **[GreenMile](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026)** — Android sustainability application using Kotlin, Jetpack Compose, Firebase Authentication, and Cloud Firestore.
 
-</details>
-
----
-
-## 🖥️ Build Signals
-
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/NetraX">
-    <img src="https://github.com/Chetan-code-lrca/NetraX/actions/workflows/ci.yml/badge.svg" alt="NetraX CI"/>
-  </a>
-  <a href="https://github.com/Chetan-code-lrca/Fit-Match_AI">
-    <img src="https://github.com/Chetan-code-lrca/Fit-Match_AI/actions/workflows/ci.yml/badge.svg" alt="FitMatch CI"/>
-  </a>
-  <a href="https://github.com/Chetan-code-lrca/ai-study-coach-agents">
-    <img src="https://github.com/Chetan-code-lrca/ai-study-coach-agents/actions/workflows/streamlit-smoke.yml/badge.svg" alt="AI Study Coach CI"/>
-  </a>
-  <a href="https://github.com/Chetan-code-lrca/low-level-image-feature-extraction">
-    <img src="https://github.com/Chetan-code-lrca/low-level-image-feature-extraction/actions/workflows/tests.yml/badge.svg" alt="Image feature tests"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chetan-code-lrca/Chetan-code-lrca/main/assets/lab-console.svg" alt="Chetan's engineering lab console"/>
-</p>
-
-<details>
-<summary>What these signals mean</summary>
-
-These badges point to repository workflows rather than claiming that every project is production-ready. The repositories themselves contain the implementation, tests, and documented limitations.
+**[NetraX Dashboard](https://github.com/Chetan-code-lrca/NetraX-dashboard)** — React/Vite frontend for uploads, analysis results, alerts, detection views, and network-path visualisation.
 
 </details>
 
 ---
 
-## 🧩 What I Like Building
+## 🔬 Build Signals
 
-| Area | What it looks like here |
+The description tells one story. The implementation provides the evidence.
+
+| Engineering area | Evidence in this account |
 |---|---|
-| **Intelligent systems** | ML/NLP projects, LLM applications, retrieval, agent experiments |
-| **Defensive technology** | passive traffic analysis and phishing-analysis work |
-| **Computer vision** | image representation, feature extraction, filtering, and fusion |
-| **Application engineering** | web apps, Android apps, APIs, dashboards |
-| **Developer workflow** | tests, CI, documentation, reproducible experiments |
+| **AI / ML applications** | PhishGuard AI, AI Study Coach, SkillSling AI |
+| **Agent / retrieval experiments** | AI Study Coach, SkillSling AI |
+| **Security engineering** | NetraX, PhishGuard AI |
+| **Computer vision** | Low-Level Image Feature Extraction |
+| **Application engineering** | FitMatch AI, GreenMile, NetraX Dashboard |
+| **Engineering discipline** | tests, CI workflows, documentation, explicit limitations |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chetan-code-lrca/Chetan-code-lrca/main/assets/lab-console.svg" alt="Animated engineering lab console showing project domains"/>
+</p>
 
 ---
 
-## ⚙️ Stack
+## 🧰 Tech Stack
+
+### Languages & Core
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=dark&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=light&perline=8">
+  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=light&perline=8" alt="Languages: Python, C++, Kotlin, TypeScript, JavaScript, Bash">
+</picture>
+
+### Application & Cloud
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github,azure,firebase&theme=dark&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github,azure,firebase&theme=light&perline=8">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github,azure,firebase&theme=light&perline=8" alt="Application and cloud tools: React, Next.js, FastAPI, Docker, Git, GitHub, Azure, Firebase">
+</picture>
+
+### AI / Data / Vision
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square&logo=meta&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
 ---
@@ -204,57 +199,100 @@ These badges point to repository workflows rather than claiming that every proje
 ## 🧠 Engineering Philosophy
 
 <p align="center">
-  <em>“The repository is not the result. It is the evidence.”</em>
+  <strong>Question → Research → Prototype → Test → Understand → Improve</strong>
 </p>
 
-I try to leave a trail of **code, tests, experiments, documentation, and limitations** so someone else can inspect the idea instead of taking the description on faith.
+<details>
+<summary>How I approach technical work</summary>
+
+A project description is a hypothesis.
+
+The repository is where the hypothesis gets tested:
+
+    idea
+      ↓
+    smallest useful version
+      ↓
+    run it
+      ↓
+    find the failure
+      ↓
+    understand the failure
+      ↓
+    document the result
+      ↓
+    iterate
 
 That is why the lab contains both polished applications and smaller experiments.
-
----
-
-<details>
-<summary>🔍 Open a project and look under the hood</summary>
-
-The useful trail is:
-
-~~~text
-README
-  ↓
-architecture / source
-  ↓
-tests & workflows
-  ↓
-experiment results
-  ↓
-limitations
-~~~
-
-A good project should make it possible to answer:
-
-**What does it do?**  
-**How does it work?**  
-**What is actually implemented?**  
-**Where does it stop?**
 
 </details>
 
 ---
 
-## 🤝 Build With Me
-
-Interested in **AI/ML, GenAI, agentic systems, cybersecurity, computer vision, developer tools, or practical software engineering**?
-
-Start with a repository. Open the README. Follow the code.
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://img.shields.io/badge/→%20Open%20the%20Lab-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Open the lab"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img src="./profile/stats-light.svg" alt="GitHub contribution statistics for Chetan Inaganti">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img src="./profile/top-langs-light.svg" alt="Top programming languages in Chetan Inaganti's public repositories">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
+    <img src="./profile/streak-light.svg" alt="GitHub contribution streak for Chetan Inaganti">
+  </picture>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <sub>Build things. Understand them. Build better things.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+    <img src="./profile/github-snake.svg" alt="Animated snake consuming Chetan Inaganti's GitHub contribution graph">
+  </picture>
+</p>
+
+<details>
+<summary>What powers this section?</summary>
+
+The snake is generated automatically by GitHub Actions from the public contribution graph and refreshed on a schedule.
+
+</details>
+
+---
+
+## 🤝 Connect
+
+Interested in AI/ML applications, GenAI and agents, cybersecurity, computer vision, developer tooling, or practical software engineering?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chetan-inaganti-563a41322/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://chetan-code-lrca.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/View_Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Good code is useful. Good engineering makes it understandable.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=110&section=footer&animation=twinkling" alt="Animated footer"/>
 </p>
