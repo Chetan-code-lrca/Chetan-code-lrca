@@ -15,24 +15,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chetan-inaganti-563a41322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://chetan-code-lrca.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
+  <a href="https://www.linkedin.com/in/chetan-inaganti-563a41322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://chetan-code-lrca.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/Chetan-code-lrca?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 ---
 
 ## 👋 About
 
-Computer Science & Engineering (AI/ML) student who learns by building and testing ideas in code.  
-Working across AI/ML, GenAI and retrieval, agent experiments, computer vision, cybersecurity, APIs, web and Android software.  
-Best contact: **[LinkedIn](https://www.linkedin.com/in/chetan-inaganti-563a41322/)** · **[Portfolio](https://chetan-code-lrca.github.io/Portfolio/)**
+Computer Science & Engineering (AI/ML) student who learns by turning questions into working software.  
+Working across AI/ML, GenAI and retrieval, agents, computer vision, cybersecurity, APIs, web and Android applications.  
+Reach me through **[LinkedIn](https://www.linkedin.com/in/chetan-inaganti-563a41322/)** or **[my portfolio](https://chetan-code-lrca.github.io/Portfolio/)**.
 
 <p align="center">
   <strong>🏆 GitHub achievements · Pull Shark · Quickdraw · YOLO</strong>
@@ -43,97 +37,97 @@ Best contact: **[LinkedIn](https://www.linkedin.com/in/chetan-inaganti-563a41322
 ## 🚀 Featured Projects
 
 ### 🛡️ NetraX
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/NetraX">
-    <img src="assets/projects/netrax.svg" alt="NetraX project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/NetraX">
+  <img src="assets/projects/netrax.svg" alt="NetraX screenshot placeholder — replace with the real NetraX dashboard screenshot">
+</a>
 
 Passive cyber-threat analysis for strictly one-way traffic, combining flow features, threat detectors, and evidence-aware separability.
 
-**Stack:** Python · FastAPI · scikit-learn · React · Vite  
+**Python · FastAPI · scikit-learn · React · Vite**  
 → [Open repository](https://github.com/Chetan-code-lrca/NetraX)
 
 ### 🧭 Rajasthan Helper
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/rajasthan-helper">
-    <img src="assets/projects/rajasthan-helper.svg" alt="Rajasthan Helper project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/rajasthan-helper">
+  <img src="assets/projects/rajasthan-helper.svg" alt="Rajasthan Helper screenshot placeholder — replace with the real CLI screenshot">
+</a>
 
 A small Python CLI for city weather, month-based festival lookup, and travel tips for supported Indian cities.
 
-**Stack:** Python · Click · Rich · Requests  
+**Python · Click · Rich · Requests**  
 → [Open repository](https://github.com/Chetan-code-lrca/rajasthan-helper)
 
 ### 🌱 GreenMile
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026">
-    <img src="assets/projects/greenmile.svg" alt="GreenMile project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026">
+  <img src="assets/projects/greenmile.svg" alt="GreenMile screenshot placeholder — replace with the real Android screen">
+</a>
 
 Android app for recording everyday sustainability activities and turning them into points, streaks, and leaderboard progress.
 
-**Stack:** Kotlin · Jetpack Compose · Firebase Authentication · Cloud Firestore  
+**Kotlin · Jetpack Compose · Firebase Authentication · Cloud Firestore**  
 → [Open repository](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026)
 
 ### 🌌 Interactive Solar System Explorer
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/solar_exp">
-    <img src="assets/projects/solar-exp.svg" alt="Interactive Solar System Explorer project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/solar_exp">
+  <img src="assets/projects/solar-exp.svg" alt="Interactive Solar System Explorer screenshot placeholder — replace with the real browser screenshot">
+</a>
 
 Interactive React visualization with animated planetary orbits, playback controls, speed controls, and planet detail views.
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Framer Motion  
+**React · TypeScript · Vite · Tailwind CSS · Framer Motion**  
 → [Open repository](https://github.com/Chetan-code-lrca/solar_exp)
 
 ### 👁️ Low-Level Image Feature Extraction
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/low-level-image-feature-extraction">
-    <img src="assets/projects/low-level-image-features.svg" alt="Low-level image feature extraction project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/low-level-image-feature-extraction">
+  <img src="assets/projects/low-level-image-features.svg" alt="Low-level image feature extraction screenshot placeholder — replace with the real feature output">
+</a>
 
 Digital Image Processing project that extracts colour, texture, and shape information and combines it into a feature vector.
 
-**Stack:** Python · OpenCV · NumPy · Matplotlib · Pytest  
+**Python · OpenCV · NumPy · Matplotlib · Pytest**  
 → [Open repository](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
 
 ### 👕 FitMatch AI
-<p align="center">
-  <a href="https://github.com/Chetan-code-lrca/Fit-Match_AI">
-    <img src="assets/projects/fitmatch.svg" alt="FitMatch AI project preview placeholder">
-  </a>
-</p>
+
+<a href="https://github.com/Chetan-code-lrca/Fit-Match_AI">
+  <img src="assets/projects/fitmatch.svg" alt="FitMatch AI screenshot placeholder — replace with the real application screenshot">
+</a>
 
 Next.js wardrobe application with image uploads, outfit scoring, Outfit of the Day, and a rule-based stylist chat.
 
-**Stack:** Next.js · TypeScript · React · OpenAI  
+**Next.js · TypeScript · React · OpenAI**  
 → [Open repository](https://github.com/Chetan-code-lrca/Fit-Match_AI)
 
 ---
 
 ## 🧰 Tech Stack
 
+### Languages
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=dark&perline=6">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=light&perline=6">
-  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=light&perline=6" alt="Languages and shell tools: Python, C++, Kotlin, TypeScript, JavaScript, Bash">
+  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,ts,js,bash&theme=light&perline=6" alt="Python, C++, Kotlin, TypeScript, JavaScript, Bash icons">
 </picture>
+
+### Applications & Infrastructure
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github&theme=dark&perline=6">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github&theme=light&perline=6">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github&theme=light&perline=6" alt="Application tooling: React, Next.js, FastAPI, Docker, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github&theme=light&perline=6" alt="React, Next.js, FastAPI, Docker, Git, GitHub icons">
 </picture>
+
+### AI, Cloud & Vision
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,firebase,opencv,sklearn,pytorch&theme=dark&perline=5">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure,firebase,opencv,sklearn,pytorch&theme=light&perline=5">
-  <img src="https://skillicons.dev/icons?i=azure,firebase,opencv,sklearn,pytorch&theme=light&perline=5" alt="AI, cloud, and computer vision tools: Azure, Firebase, OpenCV, scikit-learn, PyTorch">
+  <img src="https://skillicons.dev/icons?i=azure,firebase,opencv,sklearn,pytorch&theme=light&perline=5" alt="Azure, Firebase, OpenCV, scikit-learn, PyTorch icons">
 </picture>
 
 <p align="center">
@@ -142,7 +136,7 @@ Next.js wardrobe application with image uploads, outfit scoring, Outfit of the D
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <picture>
@@ -162,9 +156,6 @@ Next.js wardrobe application with image uploads, outfit scoring, Outfit of the D
   </a>
   <a href="https://chetan-code-lrca.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio">
-  </a>
-  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories">
   </a>
 </p>
 
