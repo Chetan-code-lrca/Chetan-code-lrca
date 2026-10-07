@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Chetan's Engineering Lab animated terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .soft{fill:#8b949e}.fg{fill:#e6edf3}.blue{fill:#58a6ff}.green{fill:#7ee787}.purple{fill:#d2a8ff}
+    </style>
+  </defs>
+
+  <rect x="3" y="3" width="994" height="294" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="4" y="44" width="992" height="252" fill="url(#grid)" rx="16"/>
+  <rect x="4" y="4" width="992" height="40" rx="18" fill="#161b22"/>
+  <circle cx="26" cy="24" r="6" fill="#ff7b72"/>
+  <circle cx="48" cy="24" r="6" fill="#d29922"/>
+  <circle cx="70" cy="24" r="6" fill="#7ee787"/>
+  <text x="95" y="29" class="m soft" font-size="14">chetan@engineering-lab — profile</text>
+
+  <text x="34" y="82" class="m blue" font-size="15">chetan@lab:~$</text>
+  <text x="170" y="82" class="m fg" font-size="15">./whoami</text>
+
+  <text x="34" y="120" class="m fg" font-weight="700" font-size="28">Chetan Inaganti</text>
+  <text x="34" y="151" class="m soft" font-size="15">AI/ML · GenAI · Agents · Computer Vision · Software Engineering</text>
+
+  <text x="34" y="192" class="m green" font-size="15">$ cat build-loop.txt</text>
+  <text x="34" y="218" class="m fg" font-size="17">question → research → prototype → test → learn → ship</text>
+
+  <g class="m" font-size="14">
+    <text x="34" y="257" class="blue">MODE</text>
+    <text x="96" y="257" class="fg">BUILDING</text>
+    <text x="190" y="257" class="purple">|</text>
+    <text x="210" y="257" class="blue">FOCUS</text>
+    <text x="270" y="257" class="fg">INTELLIGENT SYSTEMS</text>
+    <text x="514" y="257" class="purple">|</text>
+    <text x="534" y="257" class="blue">STATUS</text>
+    <text x="608" y="257" class="fg">EXPERIMENTING</text>
+  </g>
+
+  <rect x="858" y="236" width="2" height="24" fill="#7ee787" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="930" cy="84" r="3" fill="#58a6ff" filter="url(#glow)">
+    <animate attributeName="cy" values="84;116;84" dur="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;1;.25" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="956" cy="122" r="2.5" fill="#7ee787" filter="url(#glow)">
+    <animate attributeName="cx" values="956;920;956" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".15;.9;.15" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M900 88 C925 68 956 72 974 94" fill="none" stroke="url(#accent)" stroke-opacity=".45" stroke-width="2" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" values="0;-32" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+</svg>
