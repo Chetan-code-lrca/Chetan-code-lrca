@@ -1,12 +1,10 @@
 <!--
   Profile README for Chetan-code-lrca
-  Keep this page focused on public engineering work and current technical interests.
+  Public engineering work, experiments, and technical interests.
 -->
 
-<h1 align="center">Chetan Inaganti</h1>
-
 <p align="center">
-  <strong>AI/ML · GenAI · Agentic AI · Computer Vision · Software Engineering</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Chetan's%20Engineering%20Lab&fontSize=38&fontAlignY=36&desc=AI%2FML%20%7C%20GenAI%20%7C%20Agents%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=58&descSize=16" alt="Chetan's Engineering Lab"/>
 </p>
 
 <p align="center">
@@ -20,20 +18,21 @@
   <a href="https://chetan-code-lrca.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Chetan-code-lrca">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
   </a>
 </p>
 
 ---
 
-## 🧭 Explore the Lab
+## 🧭 Navigate the Lab
 
 <p align="center">
-  <a href="#-security--intelligent-systems">🛡️ Security</a> ·
-  <a href="#-ai-applications">🧠 AI Applications</a> ·
-  <a href="#-computer-vision">👁️ Computer Vision</a> ·
-  <a href="#-android--product-builds">📱 Android & Product Builds</a>
+  <a href="#-currently">~/currently</a> ·
+  <a href="#-flagship-work">Flagship Work</a> ·
+  <a href="#-build-evidence">Build Evidence</a> ·
+  <a href="#-stack">Stack</a> ·
+  <a href="#-engineering-philosophy">Philosophy</a>
 </p>
 
 ## `~/currently`
@@ -45,35 +44,24 @@ working with  → Python • TypeScript • Kotlin • FastAPI • Streamlit
 learning by   → prototyping • testing • documenting • shipping
 ```
 
-> The repositories here are a mix of working applications, prototypes, experiments, and academic engineering work. The goal is to show how ideas are explored—not to make every project look bigger than it is.
+> This profile is a working engineering lab: a mix of applications, prototypes, experiments, and academic work. Each repository is the source of truth for its implementation, scope, and limitations.
 
 ---
 
-## 🛡️ Security & Intelligent Systems
+## 🚀 Flagship Work
 
 ### [NetraX](https://github.com/Chetan-code-lrca/NetraX)
-Passive cyber-threat analysis for strictly one-way traffic. The project combines flow-feature extraction, threat-specific detectors, and evidence-aware separability analysis, with a FastAPI backend and React/Vite dashboard.
+A passive cyber-threat analysis system for strictly one-way traffic, combining flow-feature extraction, threat-specific detectors, and evidence-aware separability analysis.
 
 `Python` `FastAPI` `scikit-learn` `React` `Vite`
 
 ### [PhishGuard AI](https://github.com/Chetan-code-lrca/PhishGuard-AI-ImagineCup2026)
-A phishing-analysis project for URLs and email text. The repository contains a self-contained browser demo plus Python ML/NLP, API, Azure, database, and testing work at different stages.
+A phishing-analysis project for URL and email text. The repository includes a browser demo plus Python ML/NLP, API, Azure, database, and testing work at different stages.
 
 `Python` `ML` `NLP` `Azure` `Cybersecurity`
 
-<details>
-<summary>See the current scope</summary>
-
-The browser demo uses local heuristic scoring. It is a development/demo project, not a threat-intelligence service or proof that a link is safe.
-
-</details>
-
----
-
-## 🧠 AI Applications
-
 ### [FitMatch AI](https://github.com/Chetan-code-lrca/Fit-Match_AI)
-A Next.js wardrobe and outfit-suggestion app with image uploads, outfit scoring, an Outfit of the Day view, and a rule-based stylist chat. OpenAI is optional and is used only to generate styling explanations.
+A Next.js wardrobe and outfit-suggestion app with image uploads, outfit scoring, an Outfit of the Day view, and a rule-based stylist chat. OpenAI is optional and is used for styling explanations.
 
 `Next.js` `TypeScript` `React` `OpenAI`
 
@@ -82,41 +70,55 @@ A Streamlit study assistant for study plans, document learning, quiz generation,
 
 `Python` `Streamlit` `Gemini` `Generative AI`
 
-### [SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)
-A local study assistant built around Ollama. It supports multilingual tutoring, subject-aware prompting, basic math handling, and optional PDF retrieval using a local FAISS vector store.
+### [Low-Level Image Feature Extraction](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
+A Digital Image Processing project that extracts colour, texture, and shape features and combines them into a numerical feature vector, with separate implementations and tests.
 
-`Python` `Streamlit` `Ollama` `RAG` `FAISS`
+`Python` `OpenCV` `NumPy` `Pytest`
+
+<details>
+<summary>More builds</summary>
+
+**[SkillSling AI](https://github.com/Chetan-code-lrca/skillsling-demo)** — Local study assistant using Ollama, multilingual prompting, basic math handling, and optional PDF retrieval with FAISS.
+
+**[GreenMile](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026)** — Android sustainability app using Kotlin, Jetpack Compose, Firebase Authentication, and Cloud Firestore.
+
+</details>
 
 ---
 
-## 👁️ Computer Vision
+## 🔎 Build Evidence
 
-### [Low-Level Image Feature Extraction](https://github.com/Chetan-code-lrca/low-level-image-feature-extraction)
-A Digital Image Processing project that extracts colour, texture, and shape features, then combines them into a numerical feature vector. Separate implementations and tests cover each feature family.
-
-`Python` `OpenCV` `NumPy` `Matplotlib` `Pytest`
+Rather than treating a skills list as proof, these repositories show where those areas appear in actual work:
 
 ```text
-image
- ├── colour  → RGB / HSV statistics + histograms
- ├── texture → grayscale statistics + histogram
- └── shape   → threshold → edges → contours
-                         ↓
-                  feature vector
+Security & detection
+  ├── NetraX
+  └── PhishGuard AI
+
+GenAI applications
+  ├── AI Study Coach
+  └── SkillSling AI
+
+Product / application engineering
+  ├── FitMatch AI
+  └── GreenMile
+
+Computer vision
+  └── Low-Level Image Feature Extraction
 ```
 
+### What the projects demonstrate
+
+- **Systems & APIs** → FastAPI, structured pipelines, backend/frontend integration
+- **Applied AI** → ML/NLP workflows, LLM-powered application features, retrieval
+- **Software engineering** → web interfaces, Android applications, testing, CI workflows
+- **Computer vision** → colour, texture, shape extraction and feature fusion
+
+These are descriptions of repository contents, not claims of expertise.
+
 ---
 
-## 📱 Android & Product Builds
-
-### [GreenMile](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026)
-An Android application for recording sustainability activities and turning them into points, streaks, and leaderboard progress. It uses Kotlin, Jetpack Compose, Firebase Authentication, and Cloud Firestore.
-
-`Kotlin` `Jetpack Compose` `Firebase` `Android`
-
----
-
-## ⚙️ The Engineering Stack
+## ⚙️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -124,29 +126,28 @@ An Android application for recording sustainability activities and turning them 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat&logo=meta&logoColor=white" alt="FAISS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ---
 
-## 🧪 How I Build
+## 🧪 Engineering Philosophy
 
 ```text
 question
@@ -164,45 +165,23 @@ document
 ship
 ```
 
-I care about understanding the implementation as much as the final demo.
+Not every experiment needs to become a product.
+
+The useful part is understanding **why it works, where it fails, and what to improve next**.
 
 ---
 
-## 🔎 What You'll Find Here
-
-```text
-AI / ML            → practical experiments and applications
-GenAI / Agents     → LLM-powered workflows and prototypes
-Security           → analysis and defensive tooling
-Computer Vision    → image-processing implementations
-Software           → APIs, frontends, automation, and tooling
-```
-
 <details>
-<summary>Why the profile is organised this way</summary>
+<summary>A small note about this lab</summary>
 
-A GitHub profile is more useful when it shows **evidence of building** rather than a long list of technologies.
+Some repositories are polished applications. Others are experiments or academic implementations.
 
-So the projects above are grouped by what they actually do, while the repository itself remains the source of truth for implementation details, limitations, and status.
+I keep them together because the development process matters too: reading, testing, breaking things, fixing them, and documenting what was learned.
 
 </details>
 
 ---
 
-## 🤝 Build With Me
-
-Interested in **AI/ML applications, GenAI and agents, developer tools, cybersecurity, computer vision, or open-source engineering**?
-
-Browse a project, open the code, and see how it works.
-
 <p align="center">
-  <a href="https://github.com/Chetan-code-lrca?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Learn the system. Build the system. Improve the system.</sub>
+  <strong>Build things. Understand them. Build better things.</strong>
 </p>
