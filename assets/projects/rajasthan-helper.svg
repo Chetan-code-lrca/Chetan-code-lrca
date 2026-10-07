@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">RAJASTHAN HELPER visual placeholder</title>
+<desc id="d">Terminal showing: rajasthan-helper weather Jaipur (with the command and formatted result visible).</desc>
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#161b22"/>
+  </linearGradient>
+  <pattern id="p" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#58a6ff" stroke-opacity=".05"/>
+  </pattern>
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+  </style>
+</defs>
+<rect width="1200" height="675" rx="24" fill="url(#g)"/>
+<rect width="1200" height="675" rx="24" fill="url(#p)"/>
+<rect x="34" y="34" width="1132" height="607" rx="18" fill="none" stroke="#30363d"/>
+<circle cx="66" cy="70" r="7" fill="#ff7b72"/>
+<circle cx="91" cy="70" r="7" fill="#d29922"/>
+<circle cx="116" cy="70" r="7" fill="#7ee787"/>
+<text x="146" y="76" class="m" fill="#8b949e" font-size="16">chetan@lab:~/projects/rajasthan-helper</text>
+<text x="600" y="275" class="m" fill="#58a6ff" font-size="26" text-anchor="middle">RAJASTHAN HELPER</text>
+<text x="600" y="330" class="m" fill="#e6edf3" font-size="30" text-anchor="middle">SCREENSHOT NEEDED</text>
+<text x="600" y="384" class="m" fill="#8b949e" font-size="18" text-anchor="middle">1600 × 900</text>
+<text x="600" y="455" class="m" fill="#8b949e" font-size="15" text-anchor="middle">Replace this file with the real project screenshot.</text>
+<text x="600" y="520" class="m" fill="#7ee787" font-size="14" text-anchor="middle">No synthetic project imagery is used.</text>
+<rect x="430" y="555" width="340" height="2" fill="#58a6ff" opacity=".45"/>
+</svg>
