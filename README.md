@@ -233,26 +233,30 @@ That is why the lab contains both polished applications and smaller experiments.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-    <img src="./profile/stats-light.svg" alt="GitHub contribution statistics for Chetan Inaganti">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Chetan-code-lrca&show_icons=true&hide_border=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Chetan-code-lrca&show_icons=true&hide_border=true&theme=default">
+    <img src="https://github-stats-extended.vercel.app/api?username=Chetan-code-lrca&show_icons=true&hide_border=true&theme=default" alt="GitHub contribution statistics for Chetan Inaganti">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-light.svg" alt="Top programming languages in Chetan Inaganti's public repositories">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Chetan-code-lrca&layout=compact&langs_count=6&hide_border=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Chetan-code-lrca&layout=compact&langs_count=6&hide_border=true&theme=default">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Chetan-code-lrca&layout=compact&langs_count=6&hide_border=true&theme=default" alt="Top programming languages in Chetan Inaganti's public repositories">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
-    <img src="./profile/streak-light.svg" alt="GitHub contribution streak for Chetan Inaganti">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Chetan-code-lrca&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Chetan-code-lrca&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=Chetan-code-lrca&theme=default&hide_border=true" alt="GitHub contribution streak for Chetan Inaganti">
   </picture>
+</p>
+
+<p align="center">
+  <sub>Analytics are pulled from public GitHub contribution data; the detailed repositories remain the source of truth.</sub>
 </p>
 
 ---
