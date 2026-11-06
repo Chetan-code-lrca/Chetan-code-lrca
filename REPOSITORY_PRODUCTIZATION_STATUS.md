@@ -17,11 +17,11 @@ This page tracks the first implementation pass after the 46-repository inventory
 | StudyFlow AI | [#1](https://github.com/Chetan-code-lrca/studyflow-ai-enhanced/pull/1) | Prevent first-render localStorage write from erasing saved data; validate persisted collections | Unit tests, TypeScript check, and production build passed |
 | GreenMile SPSU | [#1](https://github.com/Chetan-code-lrca/GreenMile-SPSU-2026/pull/1) | Document Firestore authorization, data-model, client-side scoring, and institutional deployment blockers | Android build passed; review itself is documentation-only |
 | MyOrders | [#2](https://github.com/Chetan-code-lrca/myorders/pull/2) | Implement vehicle filters and amount sorting; label backend-dependent actions as demo-only | Android unit tests and debug build passed |
-| Rajasthan Helper | [#3](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/3) | Remove generated Python artifacts, add ignore rules/CLI tests, and verify multiple Python versions | Python 3.8, 3.11, and 3.13 matrix passed |
+| Rajasthan Helper | [#3](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/3) | Consolidate trip-budget support, CLI/weather regression tests, package hygiene, and generated-artifact removal | Combined Python CI passed |
 | Gyaanify | [#1](https://github.com/Chetan-code-lrca/gyaanify/pull/1) | Rebuild static site into a temporary directory and detect drift from committed deployment files | Generated-site consistency check passed |
-| SkillSling Demo | [#6](https://github.com/Chetan-code-lrca/skillsling-demo/pull/6) | Make uploaded PDF excerpts participate in chat; bound extraction; remove unsafe detached Streamlit UI thread | Netlify preview checks only; Python tests not verified in CI in this run |
+| SkillSling Demo | [#6](https://github.com/Chetan-code-lrca/skillsling-demo/pull/6) | Add bounded local PDF retrieval to chat; include the thread-safety fix previously isolated in #5; compile PDF ingestion in smoke workflow | Netlify checks neutral; no Python CI run reported, so tests remain unverified |
 | Sentiment Analysis | [#3](https://github.com/Chetan-code-lrca/SentimentAnalysis/pull/3) | Enforce a 20,000-character inference limit in both UI and preprocessing helper | Python tests passed |
-| Fake News Detection | [#2](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/2) | Add reproducible train/evaluate/inference pipeline with train-only TF-IDF fitting and duplicate controls | Unit tests passed |
+| Fake News Detection | [#2](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/2) | Add reproducible training/evaluation, train-only TF-IDF, duplicate controls, provenance notes, and compatibility with existing offline model artifacts | Updated GitHub Actions run passed, including saved-artifact inference test |
 | n8n workflow exports | [#1](https://github.com/Chetan-code-lrca/chetanPA.github.io./pull/1) | Validate JSON structure, unique nodes, connection targets, inactive export state, and common secret formats | Workflow validation passed |
 | Chetan portfolio | [#1](https://github.com/Chetan-code-lrca/chetanportfolio.github.io/pull/1) | Correct README file tree and explain GitHub Pages deployment | Documentation-only; no code CI expected |
 
@@ -36,17 +36,15 @@ This page tracks the first implementation pass after the 46-repository inventory
 | AI project index | [#3](https://github.com/Chetan-code-lrca/AI-/pull/3) | Organize public project index and remove inaccessible private link |
 | Profile repository | [#2](https://github.com/Chetan-code-lrca/Chetan-code-lrca/pull/2) | Add 46-repository inventory and phased productization standard |
 
-All pull requests above remain unmerged. Draft PRs still require review and merge authorization from the repository owner.
+All active pull requests above remain unmerged. Draft PRs still require review and merge authorization from the repository owner.
 
-## Existing PRs that overlap with this work
+## Overlap consolidation completed
 
-Do not merge both sides of these pairs without first consolidating them:
+The overlapping work has been consolidated so each repository has one active implementation PR:
 
-- **Fake News Detection:** [existing PR #1](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/1) adds an offline inference CLI and tests; new [PR #2](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/2) also changes `predict.py`, `README.md`, `requirements.txt`, and test/CI files as part of the training-pipeline work.
-- **SkillSling:** [existing PR #5](https://github.com/Chetan-code-lrca/skillsling-demo/pull/5) removes the unsafe background Streamlit thread; new [PR #6](https://github.com/Chetan-code-lrca/skillsling-demo/pull/6) includes that same removal as part of the PDF retrieval implementation.
-- **Rajasthan Helper:** existing [PR #1](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/1) already adds a CLI test/workflow baseline, and [PR #2](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/2) also edits the README. New [PR #3](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/3) touches the same test, ignore, workflow, and README paths.
-
-These were not merged or closed as part of this pass. Reviewers should consolidate or choose a single merge sequence before merging.
+- **Fake News Detection:** [PR #2](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/2) now preserves the earlier offline inference workflow and includes the reproducible pipeline. Duplicate [PR #1](https://github.com/Chetan-code-lrca/fake-news-detection-genai/pull/1) was closed as superseded after the updated CI run passed.
+- **SkillSling:** [PR #6](https://github.com/Chetan-code-lrca/skillsling-demo/pull/6) includes the unsafe-thread removal originally isolated in [PR #5](https://github.com/Chetan-code-lrca/skillsling-demo/pull/5); #5 was closed as superseded. Python tests are still unverified because no Python Actions run was reported; only neutral Netlify checks appeared.
+- **Rajasthan Helper:** [PR #3](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/3) now includes the budget command from [PR #1](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/1), the README clarifications from [PR #2](https://github.com/Chetan-code-lrca/rajasthan-helper/pull/2), and the cleanup/test matrix. #1 and #2 were closed as superseded; the consolidated CI passed.
 
 ## Repositories deliberately left unchanged in this pass
 
