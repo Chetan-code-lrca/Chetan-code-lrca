@@ -30,6 +30,8 @@ I care about turning ideas into something runnable, testable, and understandable
 
 **GitHub achievements:** Pull Shark · Quickdraw · YOLO
 
+**Repository quality work:** [46-repository productization roadmap](REPOSITORY_PRODUCTIZATION_ROADMAP.md) · [Implementation status and open PRs](REPOSITORY_PRODUCTIZATION_STATUS.md)
+
 ---
 
 ## 🚀 Featured Projects
