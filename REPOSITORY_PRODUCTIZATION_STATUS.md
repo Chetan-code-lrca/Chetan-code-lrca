@@ -31,6 +31,7 @@ This page tracks the first implementation pass after the 46-repository inventory
 | --- | --- | --- |
 | NetraX Dashboard | [#3](https://github.com/Chetan-code-lrca/NetraX-dashboard/pull/3) | Remove citation artifacts and use reproducible frontend install instructions |
 | Praxilume (Example2) | [#6](https://github.com/Chetan-code-lrca/Example2/pull/6) | Add Rust quickstart, build/test commands, install guidance, and external-tool boundaries |
+| Bakehouse | [#2](https://github.com/Chetan-code-lrca/bakehouse/pull/2) | Disable WhatsApp order links until a valid shop number is configured; add number validation, message encoding tests, and CI | CI in progress |
 | Bakehouse | [#1](https://github.com/Chetan-code-lrca/bakehouse/pull/1) | Add shop configuration, local run, WhatsApp-order boundary, deployment checklist |
 | AI project index | [#3](https://github.com/Chetan-code-lrca/AI-/pull/3) | Organize public project index and remove inaccessible private link |
 | Profile repository | [#2](https://github.com/Chetan-code-lrca/Chetan-code-lrca/pull/2) | Add 46-repository inventory and phased productization standard |
