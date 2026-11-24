@@ -2,7 +2,10 @@ name: Generate contribution snake
 
 on:
   schedule:
+    # Primary daily refresh — 00:37 UTC (06:07 IST)
     - cron: "37 0 * * *"
+    # Same-day recovery run — 14:47 UTC (20:17 IST)
+    - cron: "47 14 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -10,6 +13,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
 
 jobs:
   build:
